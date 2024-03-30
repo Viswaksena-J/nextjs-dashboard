@@ -113,15 +113,7 @@ https://github.com/Viswaksena-J/nextjs-dashboard.git
 2. Open terminal and run the following commands
 
 ```bash
-cd Scalar-Hotel/backend
+cd nextjs-dashboard
 npm i
 npm run dev
-```
-
-4. Open new terminal and run the following commands
-
-```bash
-cd Scalar-Hotel/frontend
-npm i
-npm start
 ```
